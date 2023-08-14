@@ -29,9 +29,9 @@ This project involved designing and simulating a heating mat to melt snow accumu
 
 ## Presentation
 
-[Presentation](Final Review Snow Melting Mat.pptx)
+[Presentation](presentation.pptx)
 
 ## Reference
 
-[Final Year Project Report](Capstone Final Report Snow Melting Mats.pdf)
+[Final Year Project Report](report.pdf)
 
